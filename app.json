@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d948ef3c-cb87-4714-ad3e-0fcd65de7dda"
+      }
+    },
+    "owner": "daddy69"
   }
 }
